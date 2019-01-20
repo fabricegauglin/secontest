@@ -3,4 +3,4 @@ de programmation
 avec -HTML 5
       -CSS3
   framework bootstrap
-  framework jquery
+  framework jquery + également test de git 
