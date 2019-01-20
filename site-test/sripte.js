@@ -8,7 +8,7 @@ $(document).ready(function(){
     $("p:nth-child(2)").hide();
     
     $("h6").click(function(){
-        $("h6").hide();
+        $("h6").hide(6000);
         });
     
     $("#h3").mouseenter(function(){
