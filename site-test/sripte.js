@@ -26,6 +26,11 @@ $(document).ready(function(){
         
     $("figcaption").click(function(){
         $("img").hide();
+        
+    $("button").click(function(){
+        $("div").animate({left: '600px'});
+        
+             });
          });    
         
        }); 
