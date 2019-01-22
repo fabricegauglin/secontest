@@ -18,3 +18,9 @@ p
     color: blue;
 
 }
+/* rajout de * toutes les balisse il est appelle le selecteur universelle */
+*
+{
+    color: yellow
+    
+}
