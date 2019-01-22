@@ -3,6 +3,7 @@
 p
 {
 	color: blue;
+    font-size: 34; /* para a 34 pix*/
 }
 .introduction
 
@@ -23,4 +24,11 @@ p
 {
     color: yellow
     
+}
+/* un atribu = veleur soite une balise, un atttrbut et puis une valeur exate*/l'atribu 
+a[title="Cliquez ici"]
+
+{
+
+
 }
