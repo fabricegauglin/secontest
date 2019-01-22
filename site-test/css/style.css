@@ -3,6 +3,7 @@
 p
 {
 	color: blue;
+    font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
     font-size: 34; /* para a 34 pix*/
 }
 .introduction
