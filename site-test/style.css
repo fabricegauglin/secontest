@@ -1,7 +1,33 @@
+/* test du css enfin par fabrice gauglin*/
+
 p
 {
-	color: red;
-    border-top-color: aqua;
-    background-color: chartreuse;
-    border-color: darkcyan;
+	color: blue;
+}
+.introduction
+
+{
+
+    color: blue;
+
+}
+.salutations
+
+{
+
+    color: blue;
+
+}
+/* rajout de * toutes les balisse il est appelle le selecteur universelle */
+*
+{
+    color: yellow
+    
+}
+/* un atribu = veleur soite une balise, un atttrbut et puis une valeur exate*/
+a[title="Cliquez ici"]
+
+{
+
+
 }
