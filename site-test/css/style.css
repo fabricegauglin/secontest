@@ -1,5 +1,8 @@
 /* test du css enfin par fabrice gauglin*/
-
+@font-face{
+    font-family :'Shining Times';
+    src url('ShiningTimes.ttf');
+}
 p
 {
 	color: blue;
